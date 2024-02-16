@@ -1,4 +1,4 @@
-# Spotifyvibe-Responsive-Music-Streaming
+# SpotifyVibe-Responsive-Music-Streaming
 
 ## Overview
 
