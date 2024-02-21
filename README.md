@@ -7,9 +7,10 @@ Spotifyvibe is an ongoing project focused on creating a responsive music streami
 ## Technologies Used
 
 - React.js
-- HTML
-- CSS
+- Redux Toolkit
+- Rapid API
 - JavaScript
+- Tailwind CSS
 
 ## Project Structure
 
